@@ -1,0 +1,65 @@
+{
+  "0": {
+    "address": 0,
+    "name": "Reg 0",
+    "scale": 1.0,
+    "offset": 0.0,
+    "unit": "",
+    "data_type": "int16",
+    "enabled": true
+  },
+  "1": {
+    "address": 1,
+    "name": "Reg 1",
+    "scale": 1.0,
+    "offset": 0.0,
+    "unit": "",
+    "data_type": "int16",
+    "enabled": true
+  },
+  "2": {
+    "address": 2,
+    "name": "Reg 2",
+    "scale": 1.0,
+    "offset": 0.0,
+    "unit": "",
+    "data_type": "int16",
+    "enabled": true
+  },
+  "3": {
+    "address": 3,
+    "name": "Reg 3",
+    "scale": 1.0,
+    "offset": 0.0,
+    "unit": "",
+    "data_type": "int16",
+    "enabled": true
+  },
+  "4": {
+    "address": 4,
+    "name": "Reg 4",
+    "scale": 1.0,
+    "offset": 0.0,
+    "unit": "",
+    "data_type": "int16",
+    "enabled": true
+  },
+  "5": {
+    "address": 5,
+    "name": "Reg 5",
+    "scale": 1.0,
+    "offset": 0.0,
+    "unit": "",
+    "data_type": "int16",
+    "enabled": true
+  },
+  "6": {
+    "address": 6,
+    "name": "Reg 6",
+    "scale": 1.0,
+    "offset": 0.0,
+    "unit": "",
+    "data_type": "int16",
+    "enabled": true
+  }
+}

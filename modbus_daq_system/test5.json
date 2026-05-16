@@ -1,0 +1,38 @@
+{
+  "0": {
+    "address": 0,
+    "name": "温度1",
+    "scale": 0.1,
+    "offset": 0.0,
+    "unit": "",
+    "data_type": "int16",
+    "enabled": null
+  },
+  "1": {
+    "address": 1,
+    "name": "压力",
+    "scale": 10.0,
+    "offset": -10.0,
+    "unit": "",
+    "data_type": "int16",
+    "enabled": null
+  },
+  "2": {
+    "address": 2,
+    "name": "Reg 2",
+    "scale": 1.0,
+    "offset": 0.0,
+    "unit": "",
+    "data_type": "int16",
+    "enabled": null
+  },
+  "3": {
+    "address": 3,
+    "name": "Reg 3",
+    "scale": 1.0,
+    "offset": 0.0,
+    "unit": "",
+    "data_type": "int16",
+    "enabled": null
+  }
+}
